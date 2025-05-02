@@ -21,3 +21,6 @@ A lot of data augmentation is done to enhance the training process as the data i
 Results of the final model:
 Test Loss: 0.3065
 Test Dice: 0.6083
+
+
+By: Andreas Seierstad Larsen
